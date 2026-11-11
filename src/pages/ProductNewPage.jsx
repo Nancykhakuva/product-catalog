@@ -14,3 +14,4 @@ export default function ProductNewPage() {
 
   return <ProductForm isEdit={false} onSubmit={handleAdd} />;
 }
+

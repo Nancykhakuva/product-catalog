@@ -279,3 +279,4 @@ describe('Product Catalog App', () => {
     expect(screen.getByText('Test Cologne')).toBeInTheDocument();
   });
 });
+

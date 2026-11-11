@@ -93,3 +93,4 @@ export default function ProductListPage() {
     </div>
   );
 }
+

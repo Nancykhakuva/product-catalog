@@ -42,3 +42,4 @@ export default function ProductEditPage() {
 
   return <ProductForm isEdit={true} initialValues={product} onSubmit={handleUpdate} />;
 }
+
